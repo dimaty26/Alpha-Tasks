@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90980fca-27a5-4e19-8170-4faaf4cab9f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DBExample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBExample/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBExample/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBExample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/DbExampleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/ConsoleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/MatrixFiller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixtask/src/test/java/com/alter/diman/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/FeeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/IllegalFeeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/RatePlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratetask/src/test/java/com/alter/diman/FeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alter/diman/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alter/diman/ConsoleHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alter/diman/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alter/diman/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alter/diman/MatrixFiller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alter/diman/MainTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBExample/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DBExample/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/matrixtask/target/" />
@@ -44,87 +21,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/ConsoleHelper.java">
+        <entry file="file://$PROJECT_DIR$/DBExample/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="459">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/IllegalFeeException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/RatePlan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DBExample/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Instructor.java">
+        <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="406">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ratetask/src/main/java/com/alter/diman/FeeCalculator.java">
+        <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ratetask/src/test/java/com/alter/diman/FeeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matrixtask/src/main/java/com/alter/diman/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="28" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,6 +78,9 @@
         <option value="$PROJECT_DIR$/ratetask/src/test/java/com/alter/diman/FeeTest.java" />
         <option value="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Entity.java" />
         <option value="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Instructor.java" />
+        <option value="$PROJECT_DIR$/DBExample/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Course.java" />
+        <option value="$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Student.java" />
       </list>
     </option>
   </component>
@@ -162,8 +91,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="941" />
+    <option name="y" value="8" />
     <option name="width" value="978" />
     <option name="height" value="1030" />
   </component>
@@ -215,6 +145,24 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Alpha-Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alpha-Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="DBExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alpha-Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alpha-Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="DBExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590480453282" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590490762365" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -270,15 +218,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590479335434</updated>
-      <workItem from="1590479340026" duration="1123000" />
+      <workItem from="1590479340026" duration="2163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1123000" />
+    <option name="totallyTimeSpent" value="2163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="753" y="7" width="782" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -286,7 +234,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41828254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -399,13 +347,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DBExample/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Instructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBExample/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBExample/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBExample/src/main/java/com/alter/diman/demo/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
