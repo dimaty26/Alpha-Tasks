@@ -22,6 +22,8 @@ speed-measure-plugin*.json
 *.launch
 .settings/
 *.sublime-workspace
+/target/*
+Matrix-Task.iml
 
 # IDE - VSCode
 .vscode/*
